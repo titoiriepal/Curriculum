@@ -2,10 +2,14 @@
 
 require_once __DIR__ . '/../includes/app.php';
 
+use Controllers\Controller;
 use MVC\Router;
 
 $router = new Router();
 
+//Control de rutas
+
+$router->get('/', [Controller::class, 'index']);
 
 
 
