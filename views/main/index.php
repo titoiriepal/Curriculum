@@ -1,1 +1,4 @@
-<h1>Desde Index</h1>
+<div class="contenedor-index">
+
+    <?php include_once __DIR__ . '/../templates/header.php'; ?>
+</div>
