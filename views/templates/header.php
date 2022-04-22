@@ -5,7 +5,8 @@
             <h3>Curriculum web</h2>
         </div>
         <div class="nombre">
-            <h2>Jesús Ramos Sánchez</h2>
+            <h1>Jesús Ramos Sánchez</h1>
+            <h2>Desarrollador de aplicaciones informáticas</h2>
         </div>
     </div>
 </div>

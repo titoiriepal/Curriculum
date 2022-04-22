@@ -8,9 +8,13 @@
     <link href="https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:wght@300;400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="build/css/app.css">
 </head>
+<?php include_once __DIR__ . '/templates/header.php'; ?>
 <body>
 
     <?php echo $contenido; ?>
             
 </body>
+<?php include_once __DIR__ . '/templates/footer.php'; ?>
+
+
 </html>
