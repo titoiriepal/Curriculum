@@ -1,3 +1,4 @@
+<div class="dashboard">
 <div class="contenedor-header">
     <div class="cabecera">
 
@@ -14,7 +15,7 @@
             <a href="#formacion" class="boton-menu">Formación</a>
             <a href="#experiencia"" class="boton-menu">Experiencia</a>
             <a href="#otros"" class="boton-menu">Otros datos</a>
-            <a href="" class="boton-menu">Sobre esta página</a>
+            <button id="sobrePagina" class="boton-menu">Sobre esta página</button>
         </div>
     </div>
 </div>

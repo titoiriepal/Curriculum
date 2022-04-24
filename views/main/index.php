@@ -1,4 +1,4 @@
-
+<?php include_once __DIR__ . '/../templates/header.php'; ?>
 
 <div class="contenedor">
     <div class="apartado" id="objetivos">
@@ -61,4 +61,16 @@
         <button href="" class="boton">Ver más</button>
     </div>
 </div>
+
+<?php include_once __DIR__ . '/../templates/footer.php'; ?>
+
+<?php
+$script .= '
+ 
+    <script src="/build/js/mostrar.js"></script>    
+';
+?>
+
+<!-- <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script> -->
+
 
