@@ -10,7 +10,7 @@
             Estoy dispuesto a formarme desde cualquier nivel para conseguir
             mis objetivos y los de la empresa
         </p>
-        <button href="" class="boton">Ver más</button>
+        <a href="/objetivos" class="boton">Ver más</a>
     </div>
 
     <div class="apartado" id="formacion">
@@ -63,14 +63,14 @@
 </div>
 
 <?php include_once __DIR__ . '/../templates/footer.php'; ?>
-
 <?php
-$script .= '
- 
-    <script src="/build/js/mostrar.js"></script>    
-';
-?>
+    $script .='
 
-<!-- <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script> -->
+        <script src="/build/js/mostrar.js"></script>'
+     
+        ;
+
+    // <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+?>
 
 

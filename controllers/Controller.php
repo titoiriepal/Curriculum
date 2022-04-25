@@ -13,4 +13,13 @@ class Controller{
             'titulo' => 'Curriculum'         
         ]);
     }
+
+
+    public static function objetivos(Router $router){
+        
+
+        $router->render('main/objetivos', [
+            'titulo' => 'Curriculum || Objetivos'         
+        ]);
+    }
 }

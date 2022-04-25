@@ -10,6 +10,8 @@ $router = new Router();
 //Control de rutas
 
 $router->get('/', [Controller::class, 'index']);
+$router->get('/objetivos', [Controller::class, 'objetivos']);
+
 
 
 
