@@ -23,7 +23,7 @@
             600 horas con prácticas
             Centro de estudios Kronos, Guadalajara
         </p>
-        <button href="" class="boton">Ver más</button>
+        <a href="/formacion"><button class="boton">Ver más</button></a>
     </div>
 
     <div class="apartado" id ="experiencia">
@@ -31,16 +31,16 @@
         <img src="/build/img/experiencie.webp" class="icono-principal" alt="Icono Experiencia">
         <ul>
             <li>
-                2021-Actualidad Recepcionista <span>GRANDPADEL S.L.</span> 
+                <span class="fecha">2021-Actualidad</span> Auxiliar Administrativo <span>GRANDPADEL S.L.</span> 
             </li>
             <li>
-                2010 -2021 Autónomo Hostelería
+                <span class="fecha">2010 -2021</span> Autónomo Hostelería
             </li>
             <li>
-                2007-2008 <span>Hipercor S.L</span> 
+                <span class="fecha">2007-2008</span> <span>Hipercor S.L</span> 
             </li>
             <li>
-                2003-2004 Operario impresión <span>D.W.Plastics</span>
+                <span class="fecha">2003-2004</span> Operario impresión <span>D.W.Plastics</span>
             </li>
         </ul>
 

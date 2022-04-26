@@ -22,4 +22,12 @@ class Controller{
             'titulo' => 'Curriculum || Objetivos'         
         ]);
     }
+
+    public static function formacion(Router $router){
+        
+
+        $router->render('main/formacion', [
+            'titulo' => 'Curriculum || Formacion'         
+        ]);
+    }
 }
