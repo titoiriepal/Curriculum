@@ -30,4 +30,20 @@ class Controller{
             'titulo' => 'Curriculum || Formacion'         
         ]);
     }
+
+    public static function experiencia(Router $router){
+        
+
+        $router->render('main/experiencia', [
+            'titulo' => 'Curriculum || Experiencia'         
+        ]);
+    }
+
+    public static function otros(Router $router){
+        
+
+        $router->render('main/otros', [
+            'titulo' => 'Curriculum || Otros datos'         
+        ]);
+    }
 }

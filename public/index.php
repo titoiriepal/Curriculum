@@ -12,6 +12,9 @@ $router = new Router();
 $router->get('/', [Controller::class, 'index']);
 $router->get('/objetivos', [Controller::class, 'objetivos']);
 $router->get('/formacion', [Controller::class, 'formacion']);
+$router->get('/experiencia', [Controller::class, 'experiencia']);
+$router->get('/otros-datos', [Controller::class, 'otros']);
+
 
 
 

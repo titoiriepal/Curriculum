@@ -44,7 +44,7 @@
             </li>
         </ul>
 
-        <button href="" class="boton">Ver más</button>
+        <a href="/experiencia"><button class="boton">Ver más</button></a>
     </div>
 
     <div class="apartado" id="otros">
@@ -58,7 +58,7 @@
                 Vehículo propio
             </li>
         </ul>
-        <button href="" class="boton">Ver más</button>
+        <a href="/otros-datos"><button class="boton">Ver más</button></a>
     </div>
 </div>
 

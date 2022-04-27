@@ -13,8 +13,8 @@
         <div class="menu-bar">
             <a href="/objetivos" class="boton-menu">Objetivos</a>
             <a href="/formacion" class="boton-menu">Formación</a>
-            <a href="#experiencia"" class="boton-menu">Experiencia</a>
-            <a href="#otros"" class="boton-menu">Otros datos</a>
+            <a href="/experiencia"" class="boton-menu">Experiencia</a>
+            <a href="/otros-datos"" class="boton-menu">Otros datos</a>
             <button id="sobrePagina" class="boton-menu">Sobre esta página</button>
         </div>
     </div>

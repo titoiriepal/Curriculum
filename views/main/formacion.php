@@ -6,7 +6,7 @@
 
         <h3>Formación y conocimientos</h3>
         <div class="formacion">
-        <ul class="lista-formacion">
+        <ul>
             <li>
                 <h4>Técnico superior de desarrollo de aplicaciones informáticas</h4>
                 <p class="descripcion">
@@ -18,9 +18,9 @@
             <li>
                 <h4>IFCT 06-09 Programación de sistemas informáticos</h4>
                 <p class="descripcion">
-                    Certificado de profesionalidad para desarrollar componentes software a partir de unas especificaciones concretas, proporcionando funciones de administración y supervisión del sistema operativo, para la gestión de los recursos de un sistema informático y la interacción con otros sistemas utilizando tecnoloías de desarrollo orientadas a objetos y componentes
+                    Certificado de profesionalidad para desarrollar componentes software a partir de unas especificaciones concretas, proporcionando funciones de administración y supervisión del sistema operativo, para la gestión de los recursos de un sistema informático y la interacción con otros sistemas utilizando tecnologías de desarrollo orientadas a objetos y componentes
                 </p>
-                    <a href="http://www.tecdifor.info/contacto.htm" target="_blank"><p><span>Centro de estudios Kronos, Guadalajara. 2000 - 2002</span></a></p>
+                    <a href="http://www.tecdifor.info/contacto.htm" target="_blank"><p><span>Centro de estudios Kronos, Guadalajara. 2021</span></a></p>
             </li>
         </ul>
         </div>
@@ -33,7 +33,7 @@
                     <p>HTML 5</p>
                 </li>
                 <li>
-                    <p>CSS 3</p>
+                    <p title="Flex, Block, Grid, Mixins...">CSS 3</p>
                 </li>
                 <li>
                     <p>PHP</p>
@@ -42,7 +42,28 @@
                     <p>Javascript</p>
                 </li>
                 <li>
+                    <p>SASS</p>
+                </li>
+                <li>
+                    <p>Gulp</p>
+                </li>
+                <li>
                     <p>Python</p>
+                </li>
+                <li>
+                    <p>Flask</p>
+                </li>
+                <li>
+                    <p>C++</p>
+                </li>
+                <li>
+                    <p>C#</p>
+                </li>
+                <li>
+                    <p>Visual Studio</p>
+                </li>
+                <li>
+                    <p>Visual Studio Code</p>
                 </li>
                 <li>
                     <p>SQL / MySQL</p>
@@ -64,6 +85,9 @@
                 </li>
                 <li>
                     <p>Modelo Vista Controlador</p>
+                </li>
+                <li>
+                    <p>Scrum</p>
                 </li>
 
                 
