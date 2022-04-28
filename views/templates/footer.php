@@ -1,5 +1,8 @@
 <div class="contenedor-footer">
     <h3>Contacto</h3>
+    <div class="menu-bar">
+            <a href="/files/curriculum.pdf" class="boton-menu">Curriculum pdf</a>
+    </div>
     <p>Plaza del Ayuntamiento 5 y 6. Iriépal, 19150, Guadalajara</p>
     <p>Teléfono: 699647718</p>
     <div class="correo-footer">
