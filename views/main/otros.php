@@ -13,7 +13,12 @@
             <li>
                 <p><span>Nivel básico de Inglés</span></p>
             </li>
-            <img src="/build/img/puzzle.webp" class="imagen" alt="Affición puzzles" title="Puzzle de 9000 piezas acabado en el año 2020">
+            <picture>
+                <source srcset="/build/img/puzzle.avif" type="image/avif">
+                <source srcset="/build/img/puzzle.webp" type="image/webp">
+                <img class="imagen" loading="lazy" title="Puzzle de 9000 piezas hecho en 2020" src="/build/img/puzzle.jpg" alt="Puzzle de 9000 piezas">
+            </picture>
+            <!-- <img src="/build/img/puzzle.webp" class="imagen" alt="Affición puzzles" title="Puzzle de 9000 piezas acabado en el año 2020"> -->
             <li>
                 <p><span>Titulo Monitor de Ocio y tiempo libre</span></p>
             </li>

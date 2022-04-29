@@ -24,7 +24,12 @@
             </li>
         </ul>
         </div>
-        <img src="/build/img/formacion.webp" class="imagen" alt="Formacion">
+        <picture>
+            <source srcset="/build/img/formacion.avif" type="image/avif">
+            <source srcset="/build/img/formacion.webp" type="image/webp">
+            <img class="imagen" loading="lazy" src="/build/img/formacion.jpg" alt="Imagen Formación">
+        </picture>
+        <!-- <img src="/build/img/formacion.webp" class="imagen" alt="Formacion"> -->
         <div class="conocimientos">
             <h4>Conocimientos</h4>
             <ul class="lista-conocimientos">

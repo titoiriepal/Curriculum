@@ -22,7 +22,13 @@
                 <p><span>Bar Cervecería Tito's</span><span class="fecha"> 2010 - 2021</span></p>
                 <p>Desarrolle este trabajo por cuenta propia durante más de diez años. Gracias a él puedo aportar conocimiento en la gestión tanto de material, como de personal, además de trato con el cliente. Una experiencia que me hace valorar más tanto el trabajo propio, como la gestión de una Empresa y la complejidad de la misma</p>
             </li>
-            <img src="/build/img/experiencia.webp" class="imagen" alt="Experiencia Laboral">
+
+            <picture>
+                <source srcset="/build/img/experiencia.avif" type="image/avif">
+                <source srcset="/build/img/experiencia.webp" type="image/webp">
+                <img loading="lazy" class="imagen" src="/build/img/experiencia.jpg" alt="Experiencia Laboral">
+            </picture>
+            <!-- <img src="/build/img/experiencia.webp" class="imagen" alt="Experiencia Laboral"> -->
             <li>
                 <h5>Información clientes - Reponedor</h5>
                 <p><span>Hipercor</span><span class="fecha"> 2007 - 2008</span></p>
