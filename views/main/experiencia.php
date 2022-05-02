@@ -38,7 +38,7 @@
             <li>
                 <h5>Operario de linea - impresión</h5>
                 <p><span>D.W. Plastics</span><span class="fecha"> 2003 - 2004</span></p>
-                <p>Trabajo en una linea de producción, a turnos rotativos de mañana, tarde y noce, primero como operario de linea general, y luego como operario de una máquina de impresión</p>
+                <p>Trabajo en una linea de producción, a turnos rotativos de mañana, tarde y noche, primero como operario de linea general, y luego como operario de una máquina de impresión</p>
             </li>
         </ul>
 

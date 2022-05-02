@@ -1,13 +1,6 @@
 <h3>Acerca de esta pagina</h3>
 
-<h5>Aquí podrás ver e informarte de como he construido este curriculum web y las tecnologías empleadas para ello</h5>
+<h5>Dark Mode</h5>
 
-<p>Esta página ha sido desarrollada utilizando <span>HTML5, CSS3, Javascripty y PHP</span>. Es una página completamente original, no copiada ni creada a traves de Frameworks u otras utilidades para el desarrollo de webs</p>
-<p>El patrón de arquitectura de Software empleado es <span>Model View Controler (MVC)</span>, un patrón que separa el código en tres capas, Modelo, vistas y controladores que resulta muy útil para aplicaciones donde se requiere el uso de interfaces de usuario. Si bien aquí no se hace uso de la parte de Modelos, si queda patente el uso de vistas y la gestión de rutas por parte del Controlador principal de la página</p>
-<p>El uso de esta arquitectura <span>MVC</span> junto con el de <span>templates</span> hace que el código sea mucho más reutilizable y mucho más sencillo de modificar si se quiere hacer un cambio en el diseño de la página</p>
 
-<h5>Estilos y CSS. Una página Responsive</h5>
 
-<p>Para los estilos de esta pagina web he usado SASS, un preprocesador para compilar hojas de estilos a fin de no repetir el código de CSS. Ello genera el archivo 'app.css', que es el que otorga estilos a nuestra página web, a traves de un 'gulpfile' y de una carpeta de archivos SCSS. Se generan todos los estilos con herramientas de desarrollo que luego no se tendrán que subir al servidor de la web.</p>
-<p>Así mismo, con esta herramienta podemos convertir las imágenes que vamos a utilizar a formatos más ligeros, como '.avif' o .'webp', para que a la hora de cargar nuestra página no sea muy pesado el descargar las imágenes. Aún así, el código html de las imágenes de la página comprueba, a partir del elemento <span>'picture'</span> que nuestro navegador tenga capacidad de mostrar dichos formatos, antes de recurrir al formato '.jpg', que soportan casi la totalidad de los navegadores </p>
-<p>El diseño de la página es también completamente Responsive, es decir, su estructura cambiará en función de si la visitamos desde un teléfono móvil o una tablet o un dispositivo con una pantalla de tamaño superior. Según el número de píxels que tenga nuestro dispositivo, la hoja de estilos, a través de diferentes <span>mixins</span> nos mostrará un diseño diferente que se adapte mejor a la pantalla y a la visibilidad de nuestra página, cambiando tamaños de letra, ocultando o mostrando imágenes o cambiando el display de los elementos de la página para poder ordenarlos de forma más acorde al formato de pantalla desde la que la visitamos.</p>
