@@ -26,7 +26,7 @@
             <picture>
                 <source srcset="/build/img/experiencia.avif" type="image/avif">
                 <source srcset="/build/img/experiencia.webp" type="image/webp">
-                <img loading="lazy" class="imagen" src="/build/img/experiencia.jpg" alt="Experiencia Laboral">
+                <img loading="lazy" class="imagen" src="/build/img/experiencia.jpg" width="600px" height="400px" alt="Experiencia Laboral">
             </picture>
             <!-- <img src="/build/img/experiencia.webp" class="imagen" alt="Experiencia Laboral"> -->
             <li>
